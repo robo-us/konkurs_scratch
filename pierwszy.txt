@@ -1,2 +1,5 @@
 Nowy plik tekstowy
 "Zmiana lokalna w pierwszym" 
+Zmiana zdalna
+Kolejna zmiana lokalna
+
